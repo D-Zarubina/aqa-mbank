@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bh4m5ve38x5t0gjr/branch/main?svg=true)](https://ci.appveyor.com/project/Daria/aqa-mbank-ydm8l/branch/main)
